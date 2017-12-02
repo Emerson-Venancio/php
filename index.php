@@ -1,4 +1,5 @@
 <?php
-	echo "Hello Pamela e Miguel!!! Amores";
+	echo "Hello Pamela e Miguel!!! ";
+	echo "teste conlitos";
 
 ?>
